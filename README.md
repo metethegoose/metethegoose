@@ -20,7 +20,7 @@ def GetBio() {
 }
 GetBio()
 ```
-# GitHub stats
+<h3 align="center">GitHub stats</h2>
 <!--
 **boztepemetehan/boztepemetehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
