@@ -15,7 +15,7 @@ def GetBio() {
 		"- 🌱 I’m currently learning":        "TypeScript, JavaScript, Java, Python, GoLang, Python and C#",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning",
 		"- 💬 Ask me about":                  "Python, JavaScript and anything computer related",
-		"- 📫 How to reach me:":              "IDK try hard?",
+		"- 📫 How to reach me:":              "discord : goose#0002",
 	)
 }
 GetBio()
