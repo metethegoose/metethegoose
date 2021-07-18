@@ -21,7 +21,8 @@ def GetBio() {
 GetBio()
 ```
 <h3 align="center">GitHub stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=boztepemetehan&show_icons=true&theme=synthwave" alt="boztepemetehan :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=boztepemetehan&show_icons=true&theme=tokyonight" alt="boztepemetehan :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boztepemetehan&langs_count=10&theme=tokyonight&layout=compact" alt="boztepemetehan :: Top Langs" /></p>
 
 <!--
 **boztepemetehan/boztepemetehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
