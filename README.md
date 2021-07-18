@@ -23,7 +23,7 @@ func bioget() bio {
 		"- ⚡ Quick bio:":                    "Someone who loves programming and things that cause a contraction in my face muscles",
 		"- 🔭 I’m currently working on":      "Projects that I thought of in my head",
 		"- 🌱 I’m currently learning":        "TypeScript, JavaScript, Java, Python, GoLang, Python and C#",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning",
 		"- 💬 Ask me about":                  "Python, JavaScript and anything computer related",
 		"- 📫 How to reach me:":              "IDK try hard?",
 	}
