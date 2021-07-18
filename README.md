@@ -10,16 +10,16 @@ import (
 	"fmt"
 )
 
-type Bio map[string]string
+type bio map[string]string
 
 func main() {
-	for k, v := range GetBio() {
+	for k, v := range bioget() {
 		fmt.Printf("%+v: %+v\n", k, v)
 	}
 }
 
-func GetBio() Bio {
-	return Bio{
+func bioget() bio {
+	return bio{
 		"- ⚡ Quick bio:":                    "Someone who loves programming and things that cause a contraction in my face muscles",
 		"- 🔭 I’m currently working on":      "Projects that I thought of in my head",
 		"- 🌱 I’m currently learning":        "TypeScript, JavaScript, Java, Python, GoLang, Python and C#",
